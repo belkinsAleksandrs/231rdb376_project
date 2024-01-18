@@ -41,5 +41,6 @@ Funkcija nosūta e-pastu ar pievienotu Excel failu, kurā ir apkopoti dati.
 - Ieteicams uzmanīgi izpētīt kodu un pielāgot to savām vajadzībām.
 - Drošības nolūkos ieteicams nepaturēt paroli kodā. Izmantojiet vides mainīgos vai konfigurācijas failu.
   
-**Autors:** Aleksandrs Belkins
+**Autors:** Aleksandrs Belkins, 231RDB376
+
 **Datums:** 2024-01-18
