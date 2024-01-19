@@ -1,6 +1,8 @@
 # Dzīvokļu datu iegūšanas automatizācija vietnē www.ss.lv
 Šis skripts izmanto Selenium un OpenPyXL, lai automatizētu dzīvokļu datu iegūšanas procesu vietnē www.ss.lv, kā arī nosūta rezultātus pa e-pastu.
 
+Manā gadījumā interesē 2 istabu dzīvoklis Rīgā, Āgenskalnā, par cenu ne vairāk kā 80 000 eiro. Meklēšanas kritērijos ir iekļauta konkrēta pilsēta, rajons, istabu skaits un maksimālā cena, lai es varētu atrast manām prasībām atbilstošus dzīvokļu sarakstus.
+
 ## Atkarību instalēšana
 Instalējiet nepieciešamās bibliotēkas, izpildot šo komandu:
 
@@ -40,6 +42,7 @@ Funkcija nosūta e-pastu ar pievienotu Excel failu, kurā ir apkopoti dati.
 - Ir svarīgi pārliecināties, lai būtu instalēta pareizā jaunākā Chrome versija.
 - Ieteicams uzmanīgi izpētīt kodu un pielāgot to savām vajadzībām.
 - Drošības nolūkos ieteicams nepaturēt paroli kodā. Izmantojiet vides mainīgos vai konfigurācijas failu.
+
   
 **Autors:** Aleksandrs Belkins, 231RDB376
 
