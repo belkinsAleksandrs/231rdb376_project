@@ -96,7 +96,7 @@ file_path = "apartments-list.xlsx"
 max_price = 80000
 number_of_rooms = 2
 my_email = "dip225project@inbox.lv"
-my_password = "3dz42TWYQi"
+my_password = ""
 recipient_email = "dip225project@inbox.lv"
 
 driver = initialize_driver()
